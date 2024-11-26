@@ -1,0 +1,16 @@
+{
+    "name": "CrazyCows",
+    "symbol": "CRC",
+    "description": "Mooove over, Bitcoin – CrazyCow is here! The crazyst meme coin on the farm, designed to milk the crypto market with style.",
+    "image": "https://my.cyon.ch/cpsess8117164162/viewer/home%2fwykiqefa%2fpublic_html%2fCrazyCow/crc.png",
+    "seller_fee_basis_points": 100,
+    "attributes": [],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://my.cyon.ch/cpsess8117164162/viewer/home%2fwykiqefa%2fpublic_html%2fCrazyCow/crc.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }
