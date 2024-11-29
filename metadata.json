@@ -1,16 +1,33 @@
 {
-    "name": "CrazyCows",
-    "symbol": "CRC",
-    "description": "Mooove over, Bitcoin – CrazyCow is here! The crazyst meme coin on the farm, designed to milk the crypto market with style.",
-    "image": "https://github.com/schantastic/CRC_storage/blob/main/crc.png?raw=true",
-    "seller_fee_basis_points": 100,
-    "attributes": [],
-    "properties": {
-      "files": [
-        {
-          "uri": "https://github.com/schantastic/CRC_storage/blob/main/crc.png?raw=true",
-          "type": "image/png"
-        }
-      ]
+  "name": "CrazyCows",
+  "symbol": "CRC",
+  "description": "Mooove over, Bitcoin – CrazyCow is here! The craziest meme coin on the farm, designed to milk the crypto market with style.",
+  "image": "https://github.com/schantastic/CRC_storage/blob/main/crc.png?raw=true",
+  "seller_fee_basis_points": 100,
+  "attributes": [
+    {
+      "trait_type": "Token Type",
+      "value": "Meme Coin"
+    },
+    {
+      "trait_type": "Fee Structure",
+      "value": "1% per transaction"
     }
-  }
+  ],
+  "external_url": "https://github.com/schantastic/CRC_storage",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/schantastic/CRC_storage/blob/main/crc.png?raw=true",
+        "type": "image/png"
+      }
+    ],
+    "fee_recipient": "271aqe93HznVZN78hEckVw9qHuyn9bDddcfeAgvwapdU"
+  },
+  "creators": [
+    {
+      "address": "271aqe93HznVZN78hEckVw9qHuyn9bDddcfeAgvwapdU",
+      "share": 100
+    }
+  ]
+}
