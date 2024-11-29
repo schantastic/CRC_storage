@@ -1,9 +1,9 @@
 {
-    "name": "CrazyCows",
-    "symbol": "CRC",
-    "description": "Mooove over, Bitcoin – CrazyCow is here! The craziest meme coin on the farm, designed to milk the crypto market with style.",
-    "image": "https://github.com/schantastic/CRC_storage/blob/main/image.png?raw=true",
-    "metadata_url": "https://raw.githubusercontent.com/schantastic/CRC_storage/refs/heads/main/metadata.json",
+    "name": "SANTA",
+    "symbol": "SANTA",
+    "description": "Ho-Ho-Hold and Pump! The fastest, funniest, and most festive meme coin on Solana. Cheap fees, holiday vibes, and moon potential. Get in before Santa sleighs it!",
+    "image": "https://github.com/schantastic/coin_storage/blob/main/santa_image.png?raw=true",
+    "metadata_url": "https://raw.githubusercontent.com/schantastic/coin_storage/refs/heads/main/santa_metadata.json",
     "amount": 21000000,
     "seller_fee_basis_points": 100,
     "attributes": [
@@ -19,7 +19,7 @@
     "properties": {
         "files": [
             {
-                "uri": "https://github.com/schantastic/CRC_storage/blob/main/image.png?raw=true",
+                "uri": "https://github.com/schantastic/coin_storage/blob/main/santa_image.png?raw=true",
                 "type": "image/png"
             }
         ],
