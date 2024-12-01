@@ -3,6 +3,8 @@
     "symbol": "CRC",
     "description": "Mooove over, Bitcoin – CrazyCow is here! The craziest meme coin on the farm, designed to milk the crypto market with style.",
     "image": "https://github.com/schantastic/coin_storage/blob/main/crc_image.png?raw=true",
+    "title_image": "https://github.com/schantastic/coin_storage/blob/main/crc_title_image.png?raw=true",
+    "banner_image": "https://github.com/schantastic/coin_storage/blob/main/crc_title_image.png?raw=true",
     "metadata_url": "https://raw.githubusercontent.com/schantastic/coin_storage/refs/heads/main/crc_metadata.json",
     "amount": 21000000,
     "seller_fee_basis_points": 100,
@@ -14,6 +16,14 @@
         {
             "trait_type": "Fee Structure",
             "value": "1% per transaction"
+        },
+        {
+            "trait_type": "Community Driven",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Launch Year",
+            "value": "2024"
         }
     ],
     "properties": {
@@ -21,14 +31,31 @@
             {
                 "uri": "https://github.com/schantastic/coin_storage/blob/main/crc_image.png?raw=true",
                 "type": "image/png"
+            },
+            {
+                "uri": "https://github.com/schantastic/coin_storage/blob/main/crc_title_image.png?raw=true",
+                "type": "image/png",
+                "usage": "Title"
+            },
+            {
+                "uri": "https://github.com/schantastic/coin_storage/blob/main/crc_title_image.png?raw=true",
+                "type": "image/png",
+                "usage": "Banner"
             }
         ],
-        "fee_recipient": "271aqe93HznVZN78hEckVw9qHuyn9bDddcfeAgvwapdU"
+        "fee_recipient": "271aqe93HznVZN78hEckVw9qHuyn9bDddcfeAgvwapdU",
+        "website": "https://crazycows.com",
+        "twitter": "https://twitter.com/crazycows"
     },
     "creators": [
         {
             "address": "271aqe93HznVZN78hEckVw9qHuyn9bDddcfeAgvwapdU",
             "share": 100
         }
-    ]
+    ],
+    "liquidity_info": {
+        "initial_pool_tokens": 20000000,
+        "retained_tokens": 1000000,
+        "fee_structure": "1% fee per transaction"
+    }
 }
